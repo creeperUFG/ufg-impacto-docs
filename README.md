@@ -45,8 +45,8 @@ As quatro visões são:
 4) Visão de física<br/>
   4.1) [Diagrama de implantação]()<br/>
 
-4+1) Visão de caso de uso (extra)<br/>
-  4+1.1) [Diagrama de caso de uso]()<br/>
+5) Visão de caso de uso (extra)<br/>
+  5.1) [Diagrama de caso de uso]()<br/>
 
 
 #### Diagrama arquitetural
