@@ -14,7 +14,7 @@
 ## 💻 Sobre o projeto
 
 A UFG é uma instituição que preza pela formação de profissionais comprometidos com a transformação e desenvolvimento da sociedade. Está entre seus objetivos, se desenvolver cada vez mais para melhorar sua qualidade de ensino, pesquisa e extensão.
-Levando esses objetivos em consideração, chegamos a conclusão de que é de extrema importância um sistema que apresente os indicadores de impacto social e econômico da UFG na sociedade.<br/>
+Levando esses objetivos em consideração, chegamos a conclusão de que é de extrema importância um sistema que apresente os indicadores de impacto social e econômico da UFG na sociedade.<br/><br/>
 O sistema UFG Impacto dispobilizará indicadores tais como os tipos de projetos desenvolvidos por cada unidade acadêmica (Ensino, Pesquisa e Extensão), uma word cloud por tipo de projeto com o conteúdo do resumo do projeto, empresas criadas e/ou mantidas por egressos da UFG, Quantidade de empregos gerados por essas empresas e quantidade de egressos em relação às vagas oferecidas por cotas e vagas no geral.
 
 
