@@ -26,7 +26,28 @@ O layout do projeto está disponível em:
 
 ### Arquitetura
 
-- [ ] Diagrama Arquitetural
+#### 4+1 Views
+
+O modelo 4+1 Views foi desenvolvido por Philippe Cruchten com o objetivo de descrever como é um sistema de software baseado em multiplas visões concorrentes. As visões descrevem o sistema de software sob várias perspectivas como a do cliente, da equipe de desenvolvimento ou arquiteto.
+
+As quatro visões são:
+
+1) Visão lógica
+- [ ] [Diagrama de classes]()
+
+2) Visão de desenvolvimento
+- [ ] [Diagrama de componentes]()
+- [ ] [Diagrama de pacotes]()
+
+3) Visão de processo
+- [ ] [Diagrama de atividades]()
+
+4) Visão de física
+- [ ] [Diagrama de implantação]()
+
+4+1) Visão de caso de uso (extra) 
+- [ ] [Diagrama de caso de uso]()
+
 
 
 ### Pré-requisitos
