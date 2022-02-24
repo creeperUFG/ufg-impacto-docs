@@ -32,21 +32,21 @@ O modelo 4+1 Views foi desenvolvido por Philippe Cruchten com o objetivo de desc
 
 As quatro visões são:
 
-1) Visão lógica
-  1.1) [Diagrama de classes]()
+1) Visão lógica <br/>
+  1.1) [Diagrama de classes]()<br/>
 
-2) Visão de desenvolvimento
-  2.1) [Diagrama de componentes]()
-  2.2) [Diagrama de pacotes]()
+2) Visão de desenvolvimento<br/>
+  2.1) [Diagrama de componentes]()<br/>
+  2.2) [Diagrama de pacotes]()<br/>
 
-3) Visão de processo
-  3.1) [Diagrama de atividades]()
+3) Visão de processo<br/>
+  3.1) [Diagrama de atividades]()<br/>
 
-4) Visão de física
-  4.1) [Diagrama de implantação]()
+4) Visão de física<br/>
+  4.1) [Diagrama de implantação]()<br/>
 
-4+1) Visão de caso de uso (extra) 
-  4+1.1) [Diagrama de caso de uso]()
+4+1) Visão de caso de uso (extra)<br/>
+  4+1.1) [Diagrama de caso de uso]()<br/>
 
 
 #### Diagrama arquitetural
