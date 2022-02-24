@@ -1,8 +1,5 @@
-<h1 align="center">SAD
+<h1 align="center">Projeto UFG Impacto
 </h1>
-<h3 align="center">
-Projeto UFG Impacto
-</h3>
 
 ## Tabela de conteúdos
 
