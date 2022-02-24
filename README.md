@@ -49,6 +49,7 @@ As quatro visões são:
 - [ ] [Diagrama de caso de uso]()
 
 
+#### Diagrama arquitetural
 
 ### Pré-requisitos
 
