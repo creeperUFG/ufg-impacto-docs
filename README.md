@@ -50,6 +50,7 @@ As quatro visões são:
 
 
 #### Diagrama arquitetural
+<img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/microservicos.png" width="600">
 
 ### Pré-requisitos
 
