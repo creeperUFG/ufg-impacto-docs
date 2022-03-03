@@ -46,7 +46,7 @@ As quatro visões são:
   4.1) [Diagrama de implantação]()<br/>
 
 5) Visão de caso de uso (extra)<br/>
-  5.1) [Diagrama de caso de uso](https://lucid.app/lucidchart/db5fd7b3-15a6-4923-ad5d-7ab766d7eb36/edit?invitationId=inv_e063c770-d961-4587-a499-1e177660a713)<br/>
+  5.1) [Diagrama de caso de uso](https://lucid.app/lucidchart/db5fd7b3-15a6-4923-ad5d-7ab766d7eb36/edit?invitationId=inv_e063c770-d961-4587-a499-1e177660a713)[ ]<br/>
 
 
 #### Diagrama arquitetural
