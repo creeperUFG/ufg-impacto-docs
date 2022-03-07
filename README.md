@@ -53,7 +53,7 @@ As quatro visões são:
 <img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/microservicos.png" width="600">
 
 #### Diagrama de componentes
-<img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/diagrama_de_componentes.png" width="600">
+<img src="https://github.com/creeperUFG/ufg-impacto-docs/blob/main/diagrama_de_componentes.png?raw=true" width="800">
 
 ### Pré-requisitos
 
