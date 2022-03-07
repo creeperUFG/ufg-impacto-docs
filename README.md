@@ -52,6 +52,9 @@ As quatro visões são:
 #### Diagrama arquitetural
 <img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/microservicos.png" width="600">
 
+#### Diagrama de componentes
+<img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/diagrama_de_componentes.png" width="600">
+
 ### Pré-requisitos
 
 Antes de dar início, certifique-se que tenha em sua máquina:
