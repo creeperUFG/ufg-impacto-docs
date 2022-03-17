@@ -56,7 +56,7 @@ As quatro visões são:
 <img src="https://github.com/creeperUFG/ufg-impacto-docs/blob/main/diagrama_de_componentes.png?raw=true" width="800">
 
 #### Diagrama de caso de uso
-<img src="https://github.com/creeperUFG/ufg-impacto-docs/blob/main/diagrama_de_caso_de_uso?raw=true" width="800">
+<img src="https://github.com/creeperUFG/ufg-impacto-docs/blob/main/diagrama_de_caso_de_uso.png?raw=true" width="800">
 
 ### Pré-requisitos
 
