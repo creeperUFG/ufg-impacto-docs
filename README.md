@@ -63,8 +63,8 @@ As quatro visões são:
 ### Pré-requisitos
 
 Antes de dar início, certifique-se que tenha em sua máquina:
-- [ ] Node versão 12.16.3 ou superior
-- [ ] Yarn versão 1.22.4 ou superior
+- [x] Node versão 12.16.3 ou superior
+- [x] Yarn versão 1.22.4 ou superior
 
 
 ### Rodando o projeto
