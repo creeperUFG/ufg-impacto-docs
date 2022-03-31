@@ -22,7 +22,6 @@ O sistema UFG Impacto dispobilizará indicadores tais como os tipos de projetos 
 
 O layout do projeto está disponível em:
 - [Web](https://www.figma.com/file/ikPCY9V3rPmLrtL0EWox2F/Untitled?node-id=0%3A1).
-- [Mobile](https://www.figma.com/file/Wl3U6RMNMo0CTJd2ehJ0hV/UFGImpactoMobile?node-id=0%3A1).
 
 ### Arquitetura
 
@@ -50,7 +49,10 @@ As quatro visões são:
 
 
 #### Diagrama arquitetural
-<img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/microservicos.png" width="600">
+<img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/microsservicos.png" width="600">
+
+#### Diagrama de tecnologias
+<img src="https://raw.githubusercontent.com/creeperUFG/ufg-impacto-docs/main/tecnologias.png" width="600">
 
 #### Diagrama de componentes
 <img src="https://github.com/creeperUFG/ufg-impacto-docs/blob/main/diagrama_de_componentes.png?raw=true" width="800">
