@@ -21,7 +21,7 @@ O sistema UFG Impacto dispobilizará indicadores tais como os tipos de projetos 
 ## 🎨 Layout
 
 O layout do projeto está disponível em:
-- [Web](https://www.figma.com/file/ikPCY9V3rPmLrtL0EWox2F/Untitled?node-id=0%3A1).
+- [Web](https://www.figma.com/file/yRgijzmqGYffHvBw4ZR2SU/UFG-Impacto).
 
 ### Arquitetura
 
