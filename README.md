@@ -6,6 +6,7 @@
  * [Sobre o projeto](#-sobre-o-projeto)
  * [Layout](#-layout)
  * [Arquitetura](#arquitetura)
+ * [Documento de decisões arquiteturais](https://github.com/creeperUFG/ufg-impacto-docs/blob/main/Documento%20de%20decis%C3%B5es%20arquiteturais.pdf)
  * [Pré-requisitos](#pré-requisitos)
  * [Rodando o Projeto](#rodando-o-projeto)
  * [Como contribuir](#-como-contribuir)
