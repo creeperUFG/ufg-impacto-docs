@@ -103,6 +103,5 @@ $ yarn start
 ## 👨‍💻 Autores
 
 * [Alan Brito Barros](https://github.com/alanbbarros)
-* [Amanda Lobo Gomes](https://github.com/amandalobo)
 * [Fernando Severino Almeida](https://github.com/fernandosev)
 * [Michelly Silva Lima](https://github.com/MichellyLima)
